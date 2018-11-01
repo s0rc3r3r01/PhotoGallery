@@ -1,2 +1,2 @@
 # PhotoGallery
-PhotoGallery Simple Android App
+PhotoGallery a Simple Android Test App
